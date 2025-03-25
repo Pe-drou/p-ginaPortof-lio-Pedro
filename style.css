@@ -259,6 +259,7 @@ section {
   color: var(--text-color);
   letter-spacing: -2px;
   line-height: 0.8;
+  height: 7rem;
 }
 
 .home-presentation #last-name {
